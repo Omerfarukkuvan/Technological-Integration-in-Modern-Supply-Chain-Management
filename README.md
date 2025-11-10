@@ -1,5 +1,3 @@
-# Technological-Integration-in-Modern-Supply-Chain-Management
-
 # 📦 Technological Integration in Modern Supply Chain Management
 **How Big Companies Optimize Operations**
 
